@@ -166,44 +166,14 @@ I'm always open to discussing new opportunities, collaborating on interesting pr
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN) <!-- TODO: Add your LinkedIn profile link -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julien-chatillon-731b6120b) <!-- TODO: Add your LinkedIn profile link -->
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://julien-chatillon.com/)
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com) <!-- TODO: Add your email address -->
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chatillon35310@gmail.com) <!-- TODO: Add your email address -->
 
 ### 📱 Social Presence
 
 [![GitHub followers](https://img.shields.io/github/followers/JulienChatillon?style=social)](https://github.com/JulienChatillon)
 
-</div>
-
----
-
-## ☕ Support My Work
-
-If you found my projects helpful or learned something from my code, consider supporting my work:
-
-<div align="center">
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/YOUR_USERNAME) <!-- TODO: Replace YOUR_USERNAME with your Buy Me A Coffee username -->
-
-[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/YOUR_USERNAME) <!-- TODO: Replace YOUR_USERNAME with your Ko-fi username -->
-
-[![Sponsor](https://img.shields.io/badge/GitHub%20Sponsors-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/JulienChatillon)
-
-</div>
-
-<div align="center">
-  <sub>💡 <i>Every contribution, no matter how small, helps me maintain and improve my open source projects!</i></sub>
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=JulienChatillon&color=blueviolet&style=for-the-badge&label=Profile+Views"/>
-
-  ### 🚀 "Code is poetry, and every commit tells a story"
-
-  <sub>⭐ Feel free to star any repositories you find interesting!</sub>
 </div>
