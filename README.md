@@ -10,9 +10,9 @@
 
 ## 🎯 Current Focus
 - 🔭 Working on: **My Proxmox Homelab (DMZ, Active Directory, Reverse Proxy)**
-- 🌱 Learning: **Cybersecurity monitoring with Wazuh & Advanced pfSense Routing**
+- 🌱 Learning: **Cybersecurity, Linux administration & Advanced pfSense Routing**
 - 👯 Looking to collaborate on: **Infrastructure automation & Open-source self-hosting**
-- 💬 Ask me about: **Proxmox Virtual Environment, Linux administration, and network topologies!**
+- 💬 Ask me about: **Proxmox Virtual Environment and network topologies!**
 - ⚡ Fun fact: **I have a dedicated isolated Proxmox node just to safely break and fix things!**
 
 ---
@@ -35,8 +35,7 @@ As a student in BTS SIO SISR (System & Network), I focus on infrastructure, virt
 ### 💻 Scripting & Web Basics
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Antigravity](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
 
@@ -76,11 +75,12 @@ Take a look at my contributions and activity!
 ## 🎓 Certifications & Achievements
 - 📜 **BTS SIO (Services Informatiques aux Organisations) - Option SISR** - En cours
 - 🔧 **GLPI & IT Asset Management** - Integration & LDAP Sync
+- 📑 **Cisco Certification** - Networking Devices, Introduction to CyberSecurity & Introduction to Modern IA
 
 ## 🎯 2026 Goals
 - 🚀 Automate my VM deployments 
 - 📚 Deepen my knowledge in cybersecurity (Wazuh, SIEM)
-- 🌟 Expand my Site-to-Site VPN architectures
+- 🌟 Expand my lab
 - 📝 Document my infrastructure topology
 
 ---
