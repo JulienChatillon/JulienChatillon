@@ -58,21 +58,9 @@ Take a look at my contributions and activity!
 
 ---
 
-## 🏗️ Notable Projects
-Here are some projects I'm proud of, showcasing my skills in system administration and deployment.
-
-<div align="center">
-
-### 🌟 [Homelab Infrastructure: Proxmox & pfSense](#) 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=JulienChatillon&repo=Portfolio&theme=tokyonight)](https://github.com/JulienChatillon) 
-**Tech Stack:** Proxmox • pfSense • Windows Server AD • Wazuh
-**Status:** 🚧 Continuous Evolution
-*A complete self-hosted infrastructure featuring a Production zone, a DMZ, and an isolated Lab environment with inter-site WireGuard routing.*
-
----
-
 ### 🔥 [Personal Portfolio Website](https://julien-chatillon.com/) 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=JulienChatillon&repo=Portfolio&theme=tokyonight)](https://github.com/JulienChatillon/Portfolio) 
+<br>
 **Tech Stack:** HTML/CSS • Docker • Nginx Proxy Manager • Debian
 **Status:** ✅ Live
 *My personal web space, containerized with Docker and securely exposed to the web via a reverse proxy in my DMZ.*
