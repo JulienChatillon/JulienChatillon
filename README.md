@@ -33,9 +33,7 @@ As a student in BTS SIO SISR (System & Network), I focus on infrastructure, virt
 ![Active Directory](https://img.shields.io/badge/Active_Directory-0078D6?style=for-the-badge&logo=microsoft&logoColor=white)
 
 ### 💻 Scripting & Web Basics
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Antigravity](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
@@ -61,14 +59,10 @@ Take a look at my contributions and activity!
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=JulienChatillon&repo=Portfolio&theme=tokyonight)](https://github.com/JulienChatillon/Portfolio) 
 <br>
 **Tech Stack:** HTML/CSS • Docker • Nginx Proxy Manager • Debian
-**Status:** ✅ Live
-*My personal web space, containerized with Docker and securely exposed to the web via a reverse proxy in my DMZ.*
-
----
-
-</div>
 <br>
-<sub>💡 I'm always looking for new IT challenges! Feel free to explore my repositories.</sub>
+**Status:** ✅ Live
+<br>
+*My personal web space, containerized with Docker and securely exposed to the web via a reverse proxy in my DMZ.*
 
 ---
 
