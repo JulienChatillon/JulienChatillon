@@ -11,7 +11,6 @@
 ## 🎯 Current Focus
 - 🔭 Working on: **My Proxmox Homelab (DMZ, Active Directory, Reverse Proxy)**
 - 🌱 Learning: **Cybersecurity, Linux administration & Advanced pfSense Routing**
-- 👯 Looking to collaborate on: **Infrastructure automation & Open-source self-hosting**
 - 💬 Ask me about: **Proxmox Virtual Environment and network topologies!**
 - ⚡ Fun fact: **I have a dedicated isolated Proxmox node just to safely break and fix things!**
 
@@ -72,7 +71,6 @@ Take a look at my contributions and activity!
 - 📑 **Cisco Certification** - Networking Devices, Introduction to CyberSecurity & Introduction to Modern IA
 
 ## 🎯 2026 Goals
-- 🚀 Automate my VM deployments 
 - 📚 Deepen my knowledge in cybersecurity (Wazuh, SIEM)
 - 🌟 Expand my lab
 - 📝 Document my infrastructure topology
