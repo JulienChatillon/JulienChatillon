@@ -2,8 +2,8 @@
 ### 🚀 Building secure infrastructures, one VM at a time
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JulienChatillon&show_icons=true&theme=tokyonight&include_all_commits=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulienChatillon&layout=compact&langs_count=8&theme=tokyonight"/>
+<img height="180" alt="GitHub Readme Stats" src="https://github-readme-stats.vercel.app/api?username=JulienChatillon&show_icons=true&theme=tokyonight&include_all_commits=true" />
+<img height="180" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulienChatillon&layout=compact&langs_count=8&theme=tokyonight" />
 </div>
 
 ---
@@ -41,21 +41,23 @@ Take a look at my contributions and activity!
 
 ### 🏆 GitHub Achievements
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=JulienChatillon&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=2&column=3"/>
+<img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=JulienChatillon&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=2&column=3" />
 </p>
 
 ### 📈 Contribution Activity
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JulienChatillon&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
+<p align="center">
+<img alt="GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=JulienChatillon&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" />
+</p>
 
 ### 🔥 Streak Statistics
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JulienChatillon&theme=tokyonight&hide_border=true"/>
+<img alt="GitHub Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=JulienChatillon&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-### 🔥 [Personal Portfolio Website](https://julien-chatillon.com/) 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=JulienChatillon&repo=Portfolio&theme=tokyonight)](https://github.com/JulienChatillon/Portfolio) 
+### 🔥 [Personal Portfolio Website](https://julien-chatillon.com/)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=JulienChatillon&repo=Portfolio&theme=tokyonight)](https://github.com/JulienChatillon/Portfolio)
 <br>
 **Tech Stack:** HTML/CSS • Docker • Nginx Proxy Manager • Debian
 <br>
@@ -82,9 +84,9 @@ I'm always open to discussing new opportunities, collaborating on infrastructure
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julien-chatillon-731b6120b) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julien-chatillon-731b6120b)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://julien-chatillon.com/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chatillon20@gmail.com) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chatillon20@gmail.com)
 
 ### 📱 Social Presence
 [![GitHub followers](https://img.shields.io/github/followers/JulienChatillon?style=social)](https://github.com/JulienChatillon)
