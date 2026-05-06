@@ -5,14 +5,10 @@
 
 ## 👀 Projets Phares & Architecture
 
-<p align="center">
-  <a href="https://github.com/JulienChatillon/Portfolio">
-    <img alt="Repo Portfolio" src="https://github-readme-stats.vercel.app/api/pin/?username=JulienChatillon&repo=Portfolio&theme=tokyonight&v=1" />
-  </a>
-  <a href="https://github.com/JulienChatillon/Docs-Infra-Public">
-    <img alt="Repo Documentation" src="https://github-readme-stats.vercel.app/api/pin/?username=JulienChatillon&repo=Docs-Infra-Public&theme=tokyonight&v=1" />
-  </a>
-</p>
+| 🌐 [Portfolio Personnel](https://github.com/JulienChatillon/Portfolio) | 📚 [Documentation Infrastructure (Sanitized)](https://github.com/JulienChatillon/Docs-Infra-Public) |
+| :--- | :--- |
+| ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Nginx Proxy Manager](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=github-actions&logoColor=white) ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white) |
+| **Statut:** ✅ Live<br><br>Mon espace web personnel, conteneurisé avec Docker et exposé de manière sécurisée au web via un reverse proxy isolé dans ma zone DMZ. | **Statut:** 🔄 Auto-généré<br><br>Documentation as Code de mon labo et de ma prod. Le code sensible (IP, identifiants) est purgé dynamiquement par script avant publication. |
 
 ---
 
