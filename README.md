@@ -1,10 +1,18 @@
 # 👨‍💻 Julien Chatillon | Future System & Network Administrator
 ### 🚀 Building secure infrastructures, one VM at a time
 
-<div align="center">
-<img height="180" alt="GitHub Readme Stats" src="https://github-readme-stats.vercel.app/api?username=JulienChatillon&show_icons=true&theme=tokyonight&include_all_commits=true" />
-<img height="180" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulienChatillon&layout=compact&langs_count=8&theme=tokyonight" />
-</div>
+---
+
+## 👀 Projets Phares & Architecture
+
+<p align="center">
+  <a href="https://github.com/JulienChatillon/Portfolio">
+    <img alt="Repo Portfolio" src="https://github-readme-stats.vercel.app/api/pin/?username=JulienChatillon&repo=Portfolio&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/JulienChatillon/Docs-Infra-Public">
+    <img alt="Repo Documentation" src="https://github-readme-stats.vercel.app/api/pin/?username=JulienChatillon&repo=Docs-Infra-Public&theme=tokyonight" />
+  </a>
+</p>
 
 ---
 
@@ -53,17 +61,6 @@ Take a look at my contributions and activity!
 <p align="center">
 <img alt="GitHub Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=JulienChatillon&theme=tokyonight&hide_border=true" />
 </p>
-
----
-
-### 🔥 [Personal Portfolio Website](https://julien-chatillon.com/)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=JulienChatillon&repo=Portfolio&theme=tokyonight)](https://github.com/JulienChatillon/Portfolio)
-<br>
-**Tech Stack:** HTML/CSS • Docker • Nginx Proxy Manager • Debian
-<br>
-**Status:** ✅ Live
-<br>
-*My personal web space, containerized with Docker and securely exposed to the web via a reverse proxy in my DMZ.*
 
 ---
 
