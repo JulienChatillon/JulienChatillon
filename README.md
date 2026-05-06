@@ -7,10 +7,10 @@
 
 <p align="center">
   <a href="https://github.com/JulienChatillon/Portfolio">
-    <img alt="Repo Portfolio" src="https://github-readme-stats.vercel.app/api/pin/?username=JulienChatillon&repo=Portfolio&theme=tokyonight" />
+    <img alt="Repo Portfolio" src="https://github-readme-stats.vercel.app/api/pin/?username=JulienChatillon&repo=Portfolio&theme=tokyonight&v=1" />
   </a>
   <a href="https://github.com/JulienChatillon/Docs-Infra-Public">
-    <img alt="Repo Documentation" src="https://github-readme-stats.vercel.app/api/pin/?username=JulienChatillon&repo=Docs-Infra-Public&theme=tokyonight" />
+    <img alt="Repo Documentation" src="https://github-readme-stats.vercel.app/api/pin/?username=JulienChatillon&repo=Docs-Infra-Public&theme=tokyonight&v=1" />
   </a>
 </p>
 
