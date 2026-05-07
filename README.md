@@ -9,14 +9,15 @@
 | :--- | :--- |
 | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Nginx Proxy Manager](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=github-actions&logoColor=white) ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white) |
 | **Statut:** ✅ En ligne<br><br>Mon espace web personnel, conteneurisé avec Docker et exposé de manière sécurisée au web via un reverse proxy isolé dans ma zone DMZ. | **Statut:** 🔄 Auto-généré<br><br>Documentation as Code de mon labo et de ma prod. Le code sensible (IP, identifiants) est purgé dynamiquement par script avant publication. |
-
 ---
 
-## 🎯 Ce que je fais actuellement
-- 🔭 Je travaille sur : **Mon Homelab Proxmox (DMZ, Active Directory, Reverse Proxy)**
-- 🌱 J'apprends : **La cybersécurité, l'administration Linux et le routage avancé avec pfSense**
-- 💬 Parlons de : **Proxmox Virtual Environment et de topologies réseau**
-- ⚡ Fait amusant : **J'ai un nœud Proxmox totalement isolé exprès pour tout casser et réparer en toute sécurité**
+## 🌐 État de l'Infrastructure & Automatisation
+*L'état en temps réel de mes services et de mes déploiements.*
+
+| **Service** | **Statut** | **Dernière Synchronisation** |
+| :--- | :--- | :--- |
+| **Portfolio Personnel** | [![Statut Portfolio](https://img.shields.io/website?url=https%3A%2F%2Fjulien-chatillon.com&up_message=En%20ligne&down_message=Hors%20ligne&style=flat-square&label=julien-chatillon.com&color=38bdae)](https://julien-chatillon.com) | ![N/A](https://img.shields.io/badge/Statut-Stable-brightgreen?style=flat-square) |
+| **Documentation Infra** | ![Build Status](https://img.shields.io/badge/CI%2FCD-Passing-bf91f3?style=flat-square) | [![Sync Documentation](https://github.com/JulienChatillon/Docs-Infra-Public/actions/workflows/main.yml/badge.svg)](https://github.com/JulienChatillon/Docs-Infra-Public/actions) |
 
 ---
 
@@ -40,6 +41,19 @@ En tant qu'étudiant en BTS SIO SISR (Systèmes et Réseaux), je me concentre su
 
 ---
 
+## 📊 Analytics & Activité
+*Mes langages les plus utilisés (principalement IaC et scripting) et mes contributions.*
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulienChatillon&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Langages" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=JulienChatillon&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=JulienChatillon&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Contribution Graph" />
+</p>
+---
+
 ## 📊 Statistiques GitHub
 Jetez un œil à mes contributions et mon activité !
 
@@ -60,15 +74,9 @@ Jetez un œil à mes contributions et mon activité !
 
 ---
 
-## 🎓 Certifications & Réalisations
+## 🎓 Certifications & Réalisation
 - 📜 **BTS SIO (Services Informatiques aux Organisations) - Option SISR** - En cours
-- 🔧 **GLPI & Gestion de Parc Informatique** - Intégration & Synchronisation LDAP
 - 📑 **Certifications Cisco** - Networking Devices, Introduction to CyberSecurity & Introduction to Modern IA
-
-## 🎯 Objectifs 2026
-- 📚 Approfondir mes connaissances en cybersécurité
-- 🌟 Étendre mon labo
-- 📝 Documenter la topologie de mon infrastructure
 
 ---
 
