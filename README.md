@@ -41,19 +41,6 @@ En tant qu'étudiant en BTS SIO SISR (Systèmes et Réseaux), je me concentre su
 
 ---
 
-## 📊 Analytics & Activité
-*Mes langages les plus utilisés (principalement IaC et scripting) et mes contributions.*
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulienChatillon&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Langages" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=JulienChatillon&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=JulienChatillon&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Contribution Graph" />
-</p>
----
-
 ## 📊 Statistiques GitHub
 Jetez un œil à mes contributions et mon activité !
 
@@ -76,7 +63,11 @@ Jetez un œil à mes contributions et mon activité !
 
 ## 🎓 Certifications & Réalisation
 - 📜 **BTS SIO (Services Informatiques aux Organisations) - Option SISR** - En cours
-- 📑 **Certifications Cisco** - Networking Devices, Introduction to CyberSecurity & Introduction to Modern IA
+- 📑 **Certifications L'Atelier RGPD (CNIL) :**
+- 📑 **Certifications Cisco :**
+    - Networking Devices
+    - Introduction to CyberSecurity
+    - Introduction to Modern IA
 
 ---
 
