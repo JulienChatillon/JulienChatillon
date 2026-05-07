@@ -9,15 +9,6 @@
 | :--- | :--- |
 | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Nginx Proxy Manager](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=github-actions&logoColor=white) ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white) |
 | **Statut:** ✅ En ligne<br><br>Mon espace web personnel, conteneurisé avec Docker et exposé de manière sécurisée au web via un reverse proxy isolé dans ma zone DMZ. | **Statut:** 🔄 Auto-généré<br><br>Documentation as Code de mon labo et de ma prod. Le code sensible (IP, identifiants) est purgé dynamiquement par script avant publication. |
----
-
-## 🌐 État de l'Infrastructure & Automatisation
-*L'état en temps réel de mes services et de mes déploiements.*
-
-| **Service** | **Statut** | **Dernière Synchronisation** |
-| :--- | :--- | :--- |
-| **Portfolio Personnel** | [![Statut Portfolio](https://img.shields.io/website?url=https%3A%2F%2Fjulien-chatillon.com&up_message=En%20ligne&down_message=Hors%20ligne&style=flat-square&label=julien-chatillon.com&color=38bdae)](https://julien-chatillon.com) | ![N/A](https://img.shields.io/badge/Statut-Stable-brightgreen?style=flat-square) |
-| **Documentation Infra** | ![Build Status](https://img.shields.io/badge/CI%2FCD-Passing-bf91f3?style=flat-square) | [![Sync Documentation](https://github.com/JulienChatillon/Docs-Infra-Public/actions/workflows/main.yml/badge.svg)](https://github.com/JulienChatillon/Docs-Infra-Public/actions) |
 
 ---
 
