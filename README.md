@@ -52,8 +52,8 @@ Jetez un œil à mes contributions et mon activité !
 ---
 
 ## 🎓 Certifications & Réalisation
-- 📜 **BTS SIO (Services Informatiques aux Organisations) - Option SISR** - En cours
-- 📑 **Certifications L'Atelier RGPD (CNIL) :**
+- 📜 **BTS SIO (Services Informatiques aux Organisations) - Option SISR :** En cours
+- 📑 **Certifications L'Atelier RGPD (CNIL) :** Validée
 - 📑 **Certifications Cisco :**
     - Networking Devices
     - Introduction to CyberSecurity
